@@ -8,11 +8,11 @@ For now, I have been working on front end development for 14 years and led teams
 
 dealing with problems with different ways
 
-multiple hats
+thinking problem with multiple hats
 
 Currently I'm working on the translation of a framework called testing-libraray in github, which is DE facto standard library for component testing.
 
-Coding Standards and knowlege sharing
+I love knowlege sharing, so recently i start writing blogs in juejin. 
 
 # Weakness
 
