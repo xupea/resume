@@ -6,11 +6,13 @@ So that's why I chose front end engineering as my career.
 
 For now, I have been working on front end development for 14 years and led teams for 4 years, I still enjoy it.
 
+and what i learned most is 
+
 dealing with problems with different ways
 
 thinking problem with multiple hats
 
-Currently I'm working on the translation of a framework called testing-libraray in github, which is DE facto standard library for component testing.
+currently I'm working on the translation of a framework called testing-libraray in github, which is DE facto standard library for component testing.
 
 I love knowlege sharing, so recently i start writing blogs in juejin. 
 
