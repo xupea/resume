@@ -8,9 +8,9 @@ For now, I have been working on front end development for 14 years and led teams
 
 and what i learned most is 
 
-dealing with problems with different ways
+dealing with different problems should be with different ways accordingly
 
-thinking problem with multiple hats
+dealing with same problem can be with multiple hats
 
 currently I'm working on the translation of a framework called testing-libraray in github, which is DE facto standard library for component testing.
 
