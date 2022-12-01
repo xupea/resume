@@ -1,6 +1,8 @@
 # Introduction
 
-Hi, I'm Peter, and I graduated from Sun Yat-sen University in Guangzhou in 2008. 
+Hi, I'm Peter, and I graduated from Sun Yat-sen University in Guangzhou in 2008. After that I got my first job in Shenzhen as a junior 
+front-end developer and GIS developer.
+
 I love to create beautiful and performant products with delightful user experiences.
 So that's why I chose front end engineering as my career.
 
